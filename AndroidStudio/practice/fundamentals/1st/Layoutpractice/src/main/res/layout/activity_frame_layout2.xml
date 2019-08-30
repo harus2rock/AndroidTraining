@@ -83,7 +83,7 @@
                 android:text="hogehoge"
                 android:padding="20dp" />
         </FrameLayout>
-        
+
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
